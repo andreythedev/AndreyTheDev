@@ -12,7 +12,7 @@
 
 dev from russia that code on js, lua, python and c++
 
-currently learning reverse engineering and nasm (help meee 😭😭)
+🤫
 > Lua - 5+ years
 >
 > Python - 4+ years
