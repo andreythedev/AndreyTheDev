@@ -10,14 +10,14 @@
 </div>
 🧵 hii im andreythedevv
 
-dev from russia that code on js, lua, python and c++
+dev from russia that code on lua, python and c#, c++
 
 🤫
 > Lua - 5+ years
 >
 > Python - 4+ years
 >
-> JS - 6 month
+> Machine Learning - few days 😔
 >
 > C++ - learning now
 >
