@@ -9,7 +9,7 @@
 </div>
 🧵 hii im andreythedevv
 
-dev from russia that code on lua, python and c#, c++
+dev from russia that code on lua, python and c#, c++ (im learning last 2)
 
 🤫
 > Lua - 5+ years
