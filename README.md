@@ -16,7 +16,7 @@ dev from russia that code on lua, python and c#, c++ (im learning last 2)
 >
 > Python - 4+ years
 >
-> Machine Learning - 2+ months
+> Machine Learning - 3.5+ months
 >
 > C++ - learning now
 >
