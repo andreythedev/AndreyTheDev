@@ -18,7 +18,7 @@ very STUPID dev from russia that code on lua, python and i think learn c++ n c#
 >
 > Machine Learning - 4+ months
 >
-> Reverse Engineering - idk 1+ week i think
+> Reverse Engineering - idk 2+ week i think
 >
 > C++ - learning now
 >
@@ -37,7 +37,7 @@ Project Segma Founder & Owner
 
 
 <div id="badges", align="center">
-  <a href="https://t.me/andreythedevv_tg">
+  <a href="https://t.me/SegmaNews">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="telegram"/>
   </a>
   <a href="https://youtube.com/@andreythedevv">
