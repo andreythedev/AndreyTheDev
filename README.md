@@ -9,16 +9,16 @@
 </div>
 🧵 hii im andreythedevv
 
-very STUPID dev from russia that code on lua, python and i think learn c++ n c#
+very STUPID dev from russia that code on lua, python and i think i learning c++ n c#
 
 🤫
 > Lua - 5+ years
 >
 > Python - 4+ years
 >
-> Machine Learning - 4+ months
+> Machine Learning - 5+ months
 >
-> Reverse Engineering - idk 2+ week i think
+> Reverse Engineering - idk 3+ week i think
 >
 > C++ - learning now
 >
