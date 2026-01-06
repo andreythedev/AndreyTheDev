@@ -7,7 +7,7 @@
 </div>
 🧵 hii im andreythedevv
 
-very STUPID dev from russia that code on lua, python and i think i learning c++ n c# 
+very STUPID dev from russia that code on lua and python and reverse things sometimes
 
 idk what im doing
 
