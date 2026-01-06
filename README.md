@@ -18,7 +18,7 @@ i think its what i know
 >
 > Machine Learning - 5+ months
 >
-> Reverse Engineering - idk 1 month i think
+> Reverse Engineering - idk 2 month i think
 
 ## my github profile stats
 <p align="center">
