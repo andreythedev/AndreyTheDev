@@ -1,4 +1,4 @@
-![Logo](https://github.com/AndreyTheDev/AndreyTheDev/blob/main/logo.png?raw=true)
+![Logo](https://github.com/AndreyTheDev/AndreyTheDev/blob/main/logonew.png?raw=true)
 
 # 
 <div align="right">
