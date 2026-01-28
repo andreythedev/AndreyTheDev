@@ -4,6 +4,7 @@
 <div align="right">
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
 </div>
 🧵 hii im andreythedevv
 
@@ -12,13 +13,15 @@ very STUPID dev from russia that code on lua and python and reverse things somet
 idk what im doing
 
 i think its what i know
-> Lua - 5+ years
+> Lua - 6+ years
 >
-> Python - 4+ years
+> Python - 5+ years
 >
-> Machine Learning - 5+ months
+> Machine Learning - 6+ months
 >
-> Reverse Engineering - idk 2 month i think
+> Reverse Engineering - idk 3 month i think
+>
+> Java - idk js started to learn
 
 ## my github profile stats
 <p align="center">
