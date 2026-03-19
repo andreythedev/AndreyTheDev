@@ -6,22 +6,22 @@
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
 </div>
-🧵 hii im andreythedevv
+hii im andreythedevv
 
 dev from russia that code on lua and python and reverse things sometimes
 
 idk what im doing
 
-i think its what i know
+my skills
 > Lua - 6+ years
 >
 > Python - 5+ years
 >
 > Machine Learning - 6+ months
 >
-> Reverse Engineering - idk 3 month i think
+> Reverse Engineering - idk 3 months i think
 >
-> Java - idk js started to learn
+> Java - idk just started to learn
 
 ## my github profile stats
 <p align="center">
