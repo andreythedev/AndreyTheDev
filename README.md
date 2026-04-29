@@ -42,7 +42,7 @@ Project Segma Founder & Owner
   <a href="https://youtube.com/@andreythedevv">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
   </a>
-  <a href="https://steamcommunity.com/id/andreythedevv/">
+  <a href="https://steamcommunity.com/id/andreykoybeyko/">
     <img src="https://img.shields.io/badge/Steam-white?style=for-the-badge&logo=steam&logoColor=black" alt="steam"/>
   </a>
 </div>
