@@ -8,8 +8,6 @@
 </div>
 hii im andreythedevv
 
-dev from russia that code on lua and python and reverse things sometimes
-
 idk what im doing
 
 my skills
