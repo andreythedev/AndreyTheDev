@@ -29,7 +29,7 @@ my skills
 
 # 
 
-Project Segma Founder & Owner
+smth founder & owner
 
 
 
