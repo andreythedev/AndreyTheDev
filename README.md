@@ -19,7 +19,7 @@ my skills
 >
 > Reverse Engineering - idk 3 months i think
 >
-> Java - idk just started to learn
+> Java - few weeks
 
 ## my github profile stats
 <p align="center">
