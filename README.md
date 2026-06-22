@@ -17,7 +17,7 @@ my skills
 >
 > Machine Learning - 6+ months
 >
-> Reverse Engineering - idk 3 months i think
+> Reverse Engineering - idk 6 months i think
 >
 > Java - few weeks
 
